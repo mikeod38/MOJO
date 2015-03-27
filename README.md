@@ -1,2 +1,2 @@
 # MOJO
-scripts for MOJO
+scripts for MOJO - Sengupta lab collaboration
